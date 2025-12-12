@@ -7,6 +7,10 @@
 
 ---
 
+**PowerBI dashboard link:** https://app.powerbi.com/links/K7R6jWh5PG?ctid=c233c072-135b-431d-af59-35e05babf941&pbi_source=linkShare
+
+---
+
 ## Executive Summary
 
 This project demonstrates how customer churn can be predicted and prevented by focusing on **relationship depth and behavioural disengagement**, rather than contact frequency alone.
